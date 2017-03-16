@@ -1,0 +1,11 @@
+{
+  "name": "kip",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "q.q",
+  "dependencies": {
+		"express": "latest",
+		"body-parser": "latest",
+		"morgan":"latest",
+		"child_process":"latest"
+	}
+ }

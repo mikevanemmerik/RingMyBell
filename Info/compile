@@ -1,0 +1,2 @@
+gcc -Wall -o door door.cpp -lwiringPi
+gcc -Wall -o doorbell doorbell.cpp -lwiringPi -lstdc++
